@@ -3,7 +3,7 @@ description: 前端入门和进阶学习笔记，超详细的Web前端学习图�
 ---
 
 # 简介
-增加gitbook支持 https://luffyjet.gitbook.io/web/
+原项目没有添加gitbook，我增加了gitbook支持，方便阅读 https://luffyjet.gitbook.io/web/
 ## 项目介绍
 
 项目地址：[https://github.com/qianguyihao/Web](https://github.com/qianguyihao/Web)
